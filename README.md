@@ -18,6 +18,16 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+## 📱 Languages and Tools
+
+<p align="center">
+<img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac-Ogunmuko&theme=github">
+
+<img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac-Ogunmuko&theme=github">
+</p>
+
 ## 📊 Statistics
 
 <p align="center">
@@ -33,6 +43,10 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 - FavLinkAPI
 - todo-list-frontend
 - todo-list-backend
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-Ogunmuko&theme=github-light" />
 
 ## 🌐 Connect With Me
 
