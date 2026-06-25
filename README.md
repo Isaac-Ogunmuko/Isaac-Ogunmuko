@@ -21,13 +21,7 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 
 
 ## 📱 Languages and Tools
-
-<p align="center">
-<img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac-Ogunmuko&theme=github">
-
-<img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac-Ogunmuko&theme=github">
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Ogunmuko&langs_count=20&layout=compact">
 ## 📊 Statistics
 
 <p align="center">
