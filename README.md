@@ -33,12 +33,12 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 
 ## 📌 Featured Projects
 
-- NextDashboardApp
-- ReactFavLinks
-- Next-FavLink
-- FavLinkAPI
-- todo-list-frontend
-- todo-list-backend
+- [NextDashboardApp](https://github.com/Isaac-Ogunmuko/NextDashboardApp)
+- [ReactFavLinks](https://github.com/Isaac-Ogunmuko/ReactFavLinks)
+- [Next-FavLink](https://github.com/Isaac-Ogunmuko/Next-FavLink)
+- [FavLinkAPI](https://github.com/Isaac-Ogunmuko/FavLinkAPI)
+- [todo-list-frontend](https://github.com/Isaac-Ogunmuko/todo-list-frontend)
+- [todo-list-backend](https://github.com/Isaac-Ogunmuko/todo-list-backend)
 
 ## 📈 GitHub Activity
 
