@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Ogunmuko 👋
 
-Computer Science graduate from Lehman College interested in Web Development and Software Engineering.
+Computer Science graduate from Lehman College interested in Web Development, Software Engineering, and Cybersecurity.
 
 ## About
 
