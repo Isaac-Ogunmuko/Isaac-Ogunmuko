@@ -43,8 +43,7 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 - [ReactFavLinks](https://github.com/Isaac-Ogunmuko/ReactFavLinks)
 - [Next-FavLink](https://github.com/Isaac-Ogunmuko/Next-FavLink)
 - [FavLinkAPI](https://github.com/Isaac-Ogunmuko/FavLinkAPI)
-- [todo-list-frontend](https://github.com/Isaac-Ogunmuko/todo-list-frontend)
-- [todo-list-backend](https://github.com/Isaac-Ogunmuko/todo-list-backend)
+- [Full-Stack-Task-Management-Application](https://github.com/Isaac-Ogunmuko/Full-Stack-Task-Management-Application/tree/main)
 
 ## 📈 GitHub Activity
 
