@@ -17,12 +17,18 @@ My education journey began with an Associate's Degree in Cybersecurity at Westch
 ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💻 Core Programming & Databases
 <p align="center">
   <img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac-Ogunmuko&theme=holi&exclude=html,css,typescript">
   <img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac-Ogunmuko&theme=holi&exclude=html,css,typescript">
 </p>
+
+
+
+
 
 ## 🌐 Web Development & Design
 <p align="center">
