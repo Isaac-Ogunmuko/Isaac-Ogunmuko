@@ -7,17 +7,17 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-stats.shion.dev/api?username=Isaac-Ogunmuko&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <img src="https://streak-stats.demolab.com/?user=Isaac-Ogunmuko&theme=dark&hide_border=true" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none;">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Isaac-Ogunmuko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
     </td>
   </tr>
