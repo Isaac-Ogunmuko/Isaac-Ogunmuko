@@ -1,6 +1,4 @@
 # Hi, I'm Isaac Ogunmuko 👋
-
-# 💫 About Me:
 Computer Science graduate from Lehman College interested in Web Development, Software Engineering, and Cybersecurity.. My education journey began with an Associate's Degree in Cybersecurity at Westchester Community College. I proceeded to a Bachelor's Degree in Computer Science at Lehman College, where I expanded my knowledge on programming.
 
 
