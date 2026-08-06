@@ -15,14 +15,6 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📌 Featured Projects
-
-- [NextDashboardApp](https://github.com/Isaac-Ogunmuko/NextDashboardApp)
-- [ReactFavLinks](https://github.com/Isaac-Ogunmuko/ReactFavLinks)
-- [Next-FavLink](https://github.com/Isaac-Ogunmuko/Next-FavLink)
-- [FavLinkAPI](https://github.com/Isaac-Ogunmuko/FavLinkAPI)
-- [Full-Stack-Task-Management-Application](https://github.com/Isaac-Ogunmuko/Full-Stack-Task-Management-Application/tree/main)
-
 ## 📈 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-Ogunmuko&theme=github-light" />
