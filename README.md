@@ -19,6 +19,17 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-Ogunmuko&theme=github-light" />
 
+## Full Stack Web Applications
+
+* **[Task Management](https://github.com/Isaac-Ogunmuko/Full-Stack-Task-Management-Web-Application)** – A full-stack task management application built with React, Node.js, Express.js, and MongoDB, featuring secure authentication and persistent data storage.
+* **[FavLink](https://github.com/Isaac-Ogunmuko/Favlink-Full-Stack-Web-Application)** – A full-stack web application designed to organize and manage links seamlessly.
+
+## Java Projects
+* **[School Database](https://github.com/Isaac-Ogunmuko/SchoolDatabaseProject)**
+* **[Vehicle Management System](https://github.com/Isaac-Ogunmuko/VehicleManagementSystem)**
+* **[Minesweeper](https://github.com/Isaac-Ogunmuko/Minesweeper)**
+  
+
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/isaac-ogunmuko/
