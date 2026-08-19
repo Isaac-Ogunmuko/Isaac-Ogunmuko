@@ -30,6 +30,6 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 * **[Minesweeper](https://github.com/Isaac-Ogunmuko/Minesweeper)** - An implemented 10x10 grid game with random hidden "bombs" in each position that represents whether there's no bomb in each button interior to display the number of bombs in a one-tile radius.
 
 ## SQL Projects
-* **[Company Database Management System](https://github.com/Isaac-Ogunmuko/CompanyDatabaseManagementSystem) - A complete SQL analytics and management suite demonstrating relational schema manipulation, complex multi-table JOINs, nested subqueries, and DML operations on a corporate database.
+* **[Company Database Management System](https://github.com/Isaac-Ogunmuko/CompanyDatabaseManagementSystem)** - A complete SQL analytics and management suite demonstrating relational schema manipulation, complex multi-table JOINs, nested subqueries, and DML operations on a corporate database.
 
 
