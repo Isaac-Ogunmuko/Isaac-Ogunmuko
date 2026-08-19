@@ -25,9 +25,9 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 * **[FavLink](https://github.com/Isaac-Ogunmuko/Favlink-Full-Stack-Web-Application)** – A full-stack web application designed to organize and manage links seamlessly.
 
 ## Java Projects
-* **[School Database](https://github.com/Isaac-Ogunmuko/SchoolDatabaseProject)**
-* **[Vehicle Management System](https://github.com/Isaac-Ogunmuko/VehicleManagementSystem)**
-* **[Minesweeper](https://github.com/Isaac-Ogunmuko/Minesweeper)**
+* **[School Database](https://github.com/Isaac-Ogunmuko/SchoolDatabaseProject)** - Java school database application demonstrating object-oriented programming, inheritance, file I/O, and ArrayLists.
+* **[Vehicle Management System](https://github.com/Isaac-Ogunmuko/VehicleManagementSystem)** - A Java-based object-oriented domain model implementing custom seat allocation, passenger access rules, and recursive binary search algorithms.
+* **[Minesweeper](https://github.com/Isaac-Ogunmuko/Minesweeper)** - An implemented 10x10 grid game with random hidden "bombs" in each position that represents whether there's no bomb in each button interior to display the number of bombs in a one-tile radius.
   
 
 ## 🌐 Connect With Me
