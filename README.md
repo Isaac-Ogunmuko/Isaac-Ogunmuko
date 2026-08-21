@@ -10,7 +10,7 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Isaac-Ogunmuko&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="33%" />
   <img src="https://streak-stats.demolab.com/?user=Isaac-Ogunmuko&theme=dark&hide_border=true" width="33%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Isaac-Ogunmuko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="33%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Isaac-Ogunmuko&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" width="33%" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
