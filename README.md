@@ -14,11 +14,6 @@ Computer Science graduate from Lehman College interested in Web Development, Sof
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-Ogunmuko&theme=github-light" />
-
 ## Full Stack Web Applications
 
 * **[Task Management](https://github.com/Isaac-Ogunmuko/Full-Stack-Task-Management-Web-Application)** – A full-stack task management application built with React, Node.js, Express.js, and MongoDB, featuring secure authentication and persistent data storage.
